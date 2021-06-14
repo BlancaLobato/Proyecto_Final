@@ -1,4 +1,4 @@
-# PREPROYECTRO CLUB AEROMODELISMO EL MURO:
+# PREPROYECTO CLUB AEROMODELISMO EL MURO:
 
 ## INTRODUCCIÓN Y FINALIDAD:
 Mi proyecto iría sobre crearle una página web al club de aeromodelismo El Muro (del que mi padre es 
